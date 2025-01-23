@@ -21,7 +21,7 @@ from low to high levels in the dependency graph)
   definitions, including cryptography.
 
 * [`linera-version`](https://linera-io.github.io/linera-protocol/linera_version/index.html)
-  A library to manage version infos in binaries and services.
+ A library to manage version information in binaries and services.
 
 * [`linera-views`](https://linera-io.github.io/linera-protocol/linera_views/index.html) A
   library mapping complex data structures onto a key-value store. The corresponding
